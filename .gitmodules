@@ -1,3 +1,6 @@
 [submodule "Telegram.Bot"]
 	path = Telegram.Bot
 	url = https://github.com/digovc/telegram.bot.git
+[submodule "TelegramBot"]
+	path = TelegramBot
+	url = https://github.com/digovc/TelegramBot.git
